@@ -1,0 +1,15 @@
+site_name: ArchMeta API
+site_description: Non-invasive architectural construct topology vocabulary tagging framework.
+site_url: https://archmeta-api.github.io/
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: blue
+  logo: assets/ArchMeta-API_2.png
+  favicon: assets/ArchMeta-API_2.png
+  features:
+    - content.code.copy
+    - navigation.tabs
