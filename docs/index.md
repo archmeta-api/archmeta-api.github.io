@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **ArchMeta API**.
 
-![ArchMeta API Logo](assets/ArchMeta-API_2.png)
+![ArchMeta API Logo](assets/ArchMeta-API.png)
 
 A non-invasive, meta-annotation-driven framework providing an architectural construct topology vocabulary for automated documentation, diagramming, XML manifestation, and voluntary code governance for audit readynes.
 
